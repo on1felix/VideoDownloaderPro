@@ -1,4 +1,4 @@
-('C:\\Users\\danii\\Downloads\\VideoDownloaderPro\\build\\VideoDownloaderPro\\PYZ-00.pyz',
+('E:\\проекты\\VideoDownloaderPro\\build\\VideoDownloaderPro\\PYZ-00.pyz',
  [('PySide6',
    'C:\\Users\\danii\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\PySide6\\__init__.py',
    'PYMODULE'),
